@@ -1,4 +1,4 @@
-package top.xczt.boot.config.entity;
+package top.hjc.boot.config.entity;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.Length;

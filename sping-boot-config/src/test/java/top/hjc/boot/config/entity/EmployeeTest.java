@@ -1,13 +1,9 @@
-package top.xczt.boot.config.entity;
+package top.hjc.boot.config.entity;
 
 import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.naming.Name;
-import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 public class EmployeeTest {
     @Resource
